@@ -2,3 +2,13 @@
 .included{padding:12px 17px;border-left:4px solid #e9a400;background:#f4f8f5;color:#123d30;border-radius:4px;line-height:1.55;margin:18px 0;}
 
 .visitaddress{font-size:.9rem;margin-top:1rem}.visitaddress a{font-weight:650;text-decoration:underline}
+
+/* Logotipos de las entidades socias ORHI+ */
+img[src*="socios-orhi-plus"] {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin: 20px auto;
+}
